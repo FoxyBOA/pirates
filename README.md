@@ -5,7 +5,7 @@
 ## генерация сайта
 
 ```
-    docker-compose run hugo
+    docker compose run hugo
 ```
 
 ## дополнительные автоматизации

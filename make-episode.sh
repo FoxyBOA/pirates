@@ -44,6 +44,6 @@ echo "deploy"
 git add ${outfile}
 cd ..
 git commit -a -m "auto commit new episode ${post}" && git push
-ssh master.radio-t.com "cd /srv/pirates && git pull && docker-compose run hugo"
+ssh master.radio-t.com "cd /srv/pirates && git pull && docker compose run hugo"
 
 echo "all done for ${post}"
