@@ -36,13 +36,14 @@
     <itunes:keywords>hitech,russian,radiot,tech,news,радио-т</itunes:keywords>
 
     {{ range (where .Site.RegularPages "Section" "posts") }}
+    {{ $num := replace .Slug "podcast-" "" }}
     <item>
         <link>{{ .Permalink }}</link>
         <title>{{ .Title }}</title>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/{{ .Params.filename }}.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt{{ $num }}post.mp3" type="audio/mpeg" />
         <guid>{{ .Permalink }}</guid>
 
         <itunes:author>{{ .Params.author }}</itunes:author>
