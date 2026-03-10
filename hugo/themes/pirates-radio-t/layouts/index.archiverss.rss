@@ -13,7 +13,7 @@
     <atom:link href="https://pirates.radio-t.com/podcast-archives.rss" rel="self" type="application/rss+xml" />
     <link>{{ .Site.BaseURL }}</link>
     <description>{{ .Site.Params.description }}</description>
-    <lastBuildDate>{{ .Date }}</lastBuildDate>
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>radio-t, {{ with .Site.Copyright }}{{.}}{{ end }}</copyright>
@@ -35,21 +35,21 @@
 
     <itunes:keywords>hitech,russian,radiot,tech,news,радио-т</itunes:keywords>
 
-    {{ range (where .Site.RegularPages "Section" "posts") }}
-    {{ $num := replace .Slug "podcast-" "" }}
+    {{ range (where (where .Site.RegularPages "Section" "posts") ".Slug" "!=" "others-") }}
+    {{ $num := replace .Slug "podcast-" "" }}{{ if $num }}
     <item>
         <link>{{ .Permalink }}</link>
         <title>{{ .Title }}</title>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/rt{{ $num }}post.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt{{ $num }}post.mp3" type="audio/mp3" length="0" />
         <guid>{{ .Permalink }}</guid>
 
         <itunes:author>{{ .Params.author }}</itunes:author>
         <itunes:summary>{{ .Content | plainify }}</itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
-    </item>
+    </item>{{ end }}
     {{ end }}
   </channel>
 </rss>
