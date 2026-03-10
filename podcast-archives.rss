@@ -9,7 +9,7 @@
      xmlns:media="http://search.yahoo.com/mrss/">
 
   <channel>
-    <title>Пираты Радио-Т - послешоу подкаста Архивы</title>
+    <title>Пираты Радио-Т Архивы</title>
     <atom:link href="https://pirates.radio-t.com/podcast-archives.rss" rel="self" type="application/rss+xml" />
     <link>https://pirates.radio-t.com/</link>
     <description>Послешоу Радио-Т, подкаст-импровизации на хай-тек темы. Авторы и приглашенные гости импровизируют на околокомпьютерные темы. Как правило, не залезая в глубокие дебри, однако иногда нас заносит</description>
@@ -36,6 +36,7 @@
     <itunes:keywords>hitech,russian,radiot,tech,news,радио-т</itunes:keywords>
 
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2023/11/11/podcast-883/</link>
         <title>После РТ 883</title>
@@ -50,6 +51,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2023/10/28/podcast-881/</link>
@@ -66,6 +68,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2022/06/11/podcast-810/</link>
         <title>После РТ 810</title>
@@ -80,6 +83,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2022/05/14/podcast-806/</link>
@@ -96,6 +100,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2022/03/26/podcast-799/</link>
         <title>После РТ 799</title>
@@ -110,6 +115,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2021/04/17/podcast-750/</link>
@@ -126,6 +132,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2021/02/06/podcast-740/</link>
         <title>После РТ 740</title>
@@ -140,6 +147,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2020/05/02/podcast-700/</link>
@@ -156,6 +164,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2020/04/11/podcast-697/</link>
         <title>После РТ 697</title>
@@ -171,13 +180,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2019/06/22/podcast/</link>
         <title>После РТ 655</title>
         <pubDate>Sat, 22 Jun 2019 19:37:14 -0500</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/rtpost.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtpodcastpost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2019/06/22/podcast/</guid>
 
         <itunes:author></itunes:author>
@@ -185,6 +195,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2019/04/06/podcast-644/</link>
@@ -201,6 +212,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2018/12/08/podcast-627/</link>
         <title>После РТ 627</title>
@@ -215,6 +227,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2018/02/10/podcast-584/</link>
@@ -231,6 +244,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2018/01/06/podcast-579/</link>
         <title>После РТ 579</title>
@@ -245,6 +259,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2017/12/02/podcast-574/</link>
@@ -261,6 +276,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2017/11/18/podcast-572/</link>
         <title>После РТ 572</title>
@@ -275,6 +291,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2017/09/30/podcast-565/</link>
@@ -291,6 +308,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2017/09/09/podcast-562/</link>
         <title>После РТ 562</title>
@@ -304,6 +322,7 @@
         <itunes:summary>аудио ● лог чата </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2017/08/19/podcast-559/</link>
@@ -319,6 +338,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2017/06/17/podcast-550/</link>
         <title>После РТ 550</title>
@@ -332,6 +352,7 @@
         <itunes:summary>аудио ● лог чата </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2017/04/15/podcast-541/</link>
@@ -347,6 +368,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2017/03/11/podcast-537/</link>
         <title>После РТ 537</title>
@@ -360,6 +382,7 @@
         <itunes:summary>аудио ● лог чата </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2017/01/07/podcast-528/</link>
@@ -375,6 +398,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2016/11/12/podcast-521/</link>
         <title>После РТ 521</title>
@@ -388,6 +412,7 @@
         <itunes:summary>аудио ● лог чата </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2016/11/05/podcast-520/</link>
@@ -403,6 +428,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2016/10/15/podcast-517/</link>
         <title>После РТ 517</title>
@@ -416,6 +442,7 @@
         <itunes:summary>аудио ● лог чата </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2016/05/07/podcast-494/</link>
@@ -432,6 +459,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2016/04/23/podcast-492/</link>
         <title>После РТ 492</title>
@@ -446,6 +474,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2016/04/02/podcast-490/</link>
@@ -462,6 +491,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2016/03/12/podcast-487/</link>
         <title>После РТ 487</title>
@@ -476,6 +506,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2015/09/19/podcast-462/</link>
@@ -492,6 +523,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2015/05/31/podcast-446/</link>
         <title>После РТ 446</title>
@@ -506,6 +538,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2015/04/18/podcast-440/</link>
@@ -522,6 +555,7 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2015/02/07/podcast-430/</link>
         <title>После РТ 430</title>
@@ -536,6 +570,7 @@
 </itunes:summary>
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
+    
     
     <item>
         <link>https://pirates.radio-t.com/p/2014/12/06/podcast-421/</link>
@@ -552,13 +587,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/11/01/podcast-416/</link>
         <title>После РТ 416</title>
         <pubDate>Sat, 01 Nov 2014 23:55:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt416post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/11/01/podcast-416/</guid>
 
         <itunes:author></itunes:author>
@@ -567,13 +603,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/10/26/podcast-415/</link>
         <title>После РТ 415</title>
         <pubDate>Sun, 26 Oct 2014 00:57:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt415post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/10/26/podcast-415/</guid>
 
         <itunes:author></itunes:author>
@@ -581,13 +618,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/08/30/podcast-407/</link>
         <title>После РТ 407</title>
         <pubDate>Sat, 30 Aug 2014 17:20:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt407post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/08/30/podcast-407/</guid>
 
         <itunes:author></itunes:author>
@@ -595,13 +633,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/08/09/podcast-404/</link>
         <title>После РТ 404</title>
         <pubDate>Sat, 09 Aug 2014 17:24:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt404post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/08/09/podcast-404/</guid>
 
         <itunes:author></itunes:author>
@@ -609,13 +648,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/06/28/podcast-398/</link>
         <title>После РТ 398</title>
         <pubDate>Sat, 28 Jun 2014 18:13:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt398post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/06/28/podcast-398/</guid>
 
         <itunes:author></itunes:author>
@@ -623,13 +663,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/05/10/podcast-391/</link>
         <title>После РТ 391</title>
         <pubDate>Sat, 10 May 2014 17:39:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt391post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/05/10/podcast-391/</guid>
 
         <itunes:author></itunes:author>
@@ -637,13 +678,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/04/12/podcast-387/</link>
         <title>После РТ 387</title>
         <pubDate>Sat, 12 Apr 2014 17:21:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt387post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/04/12/podcast-387/</guid>
 
         <itunes:author></itunes:author>
@@ -651,13 +693,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/02/22/podcast-380/</link>
         <title>После РТ 380</title>
         <pubDate>Sat, 22 Feb 2014 16:50:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt380post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/02/22/podcast-380/</guid>
 
         <itunes:author></itunes:author>
@@ -665,13 +708,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/02/01/podcast-377/</link>
         <title>После РТ 377</title>
         <pubDate>Sat, 01 Feb 2014 16:05:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt377post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/02/01/podcast-377/</guid>
 
         <itunes:author></itunes:author>
@@ -679,13 +723,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/01/11/podcast-374/</link>
         <title>После РТ 374</title>
         <pubDate>Sat, 11 Jan 2014 16:27:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt374post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/01/11/podcast-374/</guid>
 
         <itunes:author></itunes:author>
@@ -693,13 +738,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2014/01/04/podcast-373/</link>
         <title>После РТ 373</title>
         <pubDate>Sat, 04 Jan 2014 18:33:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt373post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2014/01/04/podcast-373/</guid>
 
         <itunes:author></itunes:author>
@@ -707,13 +753,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/12/28/podcast-372/</link>
         <title>После РТ 372</title>
         <pubDate>Sat, 28 Dec 2013 16:35:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt372post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/12/28/podcast-372/</guid>
 
         <itunes:author></itunes:author>
@@ -721,13 +768,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/11/23/podcast-367/</link>
         <title>После РТ 367</title>
         <pubDate>Sat, 23 Nov 2013 16:14:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt367post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/11/23/podcast-367/</guid>
 
         <itunes:author></itunes:author>
@@ -735,13 +783,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/11/16/podcast-366/</link>
         <title>После РТ 366</title>
         <pubDate>Sat, 16 Nov 2013 16:53:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt366post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/11/16/podcast-366/</guid>
 
         <itunes:author></itunes:author>
@@ -749,13 +798,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/11/02/podcast-364/</link>
         <title>После РТ 364</title>
         <pubDate>Sat, 02 Nov 2013 18:07:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt364post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/11/02/podcast-364/</guid>
 
         <itunes:author></itunes:author>
@@ -763,13 +813,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/08/24/podcast-354/</link>
         <title>После РТ 354</title>
         <pubDate>Sat, 24 Aug 2013 19:29:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt354post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/08/24/podcast-354/</guid>
 
         <itunes:author></itunes:author>
@@ -777,13 +828,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/07/20/podcast-349/</link>
         <title>После РТ 349</title>
         <pubDate>Sat, 20 Jul 2013 18:47:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt349post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/07/20/podcast-349/</guid>
 
         <itunes:author></itunes:author>
@@ -791,13 +843,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/07/06/podcast-347/</link>
         <title>После РТ 347</title>
         <pubDate>Sat, 06 Jul 2013 19:27:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt347post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/07/06/podcast-347/</guid>
 
         <itunes:author></itunes:author>
@@ -805,13 +858,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/06/29/podcast-346/</link>
         <title>После РТ 346</title>
         <pubDate>Sat, 29 Jun 2013 18:15:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt346post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/06/29/podcast-346/</guid>
 
         <itunes:author></itunes:author>
@@ -819,13 +873,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/06/08/podcast-344/</link>
         <title>После РТ 344</title>
         <pubDate>Sat, 08 Jun 2013 18:40:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt344post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/06/08/podcast-344/</guid>
 
         <itunes:author></itunes:author>
@@ -833,13 +888,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/06/01/podcast-343/</link>
         <title>После РТ 343</title>
         <pubDate>Sat, 01 Jun 2013 18:29:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt343post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/06/01/podcast-343/</guid>
 
         <itunes:author></itunes:author>
@@ -847,13 +903,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/05/25/podcast-342/</link>
         <title>После РТ 342</title>
         <pubDate>Sat, 25 May 2013 18:49:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt342post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/05/25/podcast-342/</guid>
 
         <itunes:author></itunes:author>
@@ -861,13 +918,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/05/11/podcast-340/</link>
         <title>После РТ 340</title>
         <pubDate>Sat, 11 May 2013 18:28:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt340post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/05/11/podcast-340/</guid>
 
         <itunes:author></itunes:author>
@@ -875,13 +933,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/04/27/podcast-338/</link>
         <title>После РТ 338</title>
         <pubDate>Sat, 27 Apr 2013 18:26:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt338post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/04/27/podcast-338/</guid>
 
         <itunes:author></itunes:author>
@@ -889,13 +948,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/03/30/podcast-334/</link>
         <title>После РТ 334</title>
         <pubDate>Sat, 30 Mar 2013 17:38:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt334post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/03/30/podcast-334/</guid>
 
         <itunes:author></itunes:author>
@@ -903,13 +963,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/03/23/podcast-333/</link>
         <title>После РТ 333</title>
         <pubDate>Sat, 23 Mar 2013 19:02:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt333post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/03/23/podcast-333/</guid>
 
         <itunes:author></itunes:author>
@@ -917,13 +978,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/03/09/podcast-331/</link>
         <title>После РТ 331</title>
         <pubDate>Sat, 09 Mar 2013 17:01:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt331post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/03/09/podcast-331/</guid>
 
         <itunes:author></itunes:author>
@@ -931,13 +993,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/02/16/podcast-328/</link>
         <title>После РТ 328</title>
         <pubDate>Sat, 16 Feb 2013 16:31:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt328post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/02/16/podcast-328/</guid>
 
         <itunes:author></itunes:author>
@@ -945,13 +1008,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/02/02/podcast-326/</link>
         <title>После РТ 326</title>
         <pubDate>Sat, 02 Feb 2013 17:57:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt326post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/02/02/podcast-326/</guid>
 
         <itunes:author></itunes:author>
@@ -959,13 +1023,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/01/26/podcast-325/</link>
         <title>После РТ 325</title>
         <pubDate>Sat, 26 Jan 2013 17:20:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt325post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/01/26/podcast-325/</guid>
 
         <itunes:author></itunes:author>
@@ -973,13 +1038,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/01/19/podcast-324/</link>
         <title>После РТ 324</title>
         <pubDate>Sat, 19 Jan 2013 16:45:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt324post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/01/19/podcast-324/</guid>
 
         <itunes:author></itunes:author>
@@ -987,13 +1053,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/01/12/podcast-323/</link>
         <title>После РТ 323</title>
         <pubDate>Sat, 12 Jan 2013 16:25:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt323post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/01/12/podcast-323/</guid>
 
         <itunes:author></itunes:author>
@@ -1001,13 +1068,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2013/01/05/podcast-322/</link>
         <title>После РТ 322</title>
         <pubDate>Sat, 05 Jan 2013 18:22:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt322post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2013/01/05/podcast-322/</guid>
 
         <itunes:author></itunes:author>
@@ -1015,13 +1083,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/12/15/podcast-319/</link>
         <title>После РТ 319</title>
         <pubDate>Sat, 15 Dec 2012 17:31:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt319post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/12/15/podcast-319/</guid>
 
         <itunes:author></itunes:author>
@@ -1029,13 +1098,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/12/08/podcast-318/</link>
         <title>После РТ 318</title>
         <pubDate>Sat, 08 Dec 2012 17:29:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt318post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/12/08/podcast-318/</guid>
 
         <itunes:author></itunes:author>
@@ -1043,13 +1113,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/12/01/podcast-317/</link>
         <title>После РТ 317</title>
         <pubDate>Sat, 01 Dec 2012 17:01:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt317post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/12/01/podcast-317/</guid>
 
         <itunes:author></itunes:author>
@@ -1057,13 +1128,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/10/27/podcast-312/</link>
         <title>После РТ 312</title>
         <pubDate>Sat, 27 Oct 2012 18:06:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt312post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/10/27/podcast-312/</guid>
 
         <itunes:author></itunes:author>
@@ -1071,13 +1143,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/10/20/podcast-311/</link>
         <title>После РТ 311</title>
         <pubDate>Sat, 20 Oct 2012 18:31:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt311post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/10/20/podcast-311/</guid>
 
         <itunes:author></itunes:author>
@@ -1085,13 +1158,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/10/13/podcast-310/</link>
         <title>После РТ 310</title>
         <pubDate>Sat, 13 Oct 2012 18:35:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt310post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/10/13/podcast-310/</guid>
 
         <itunes:author></itunes:author>
@@ -1099,13 +1173,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/10/06/podcast-309/</link>
         <title>После РТ 309</title>
         <pubDate>Sat, 06 Oct 2012 20:13:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt309post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/10/06/podcast-309/</guid>
 
         <itunes:author></itunes:author>
@@ -1113,13 +1188,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/09/08/podcast-305/</link>
         <title>После РТ 305</title>
         <pubDate>Sat, 08 Sep 2012 17:51:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt305post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/09/08/podcast-305/</guid>
 
         <itunes:author></itunes:author>
@@ -1127,13 +1203,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/09/01/podcast-304/</link>
         <title>После РТ 304</title>
         <pubDate>Sat, 01 Sep 2012 17:41:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt304post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/09/01/podcast-304/</guid>
 
         <itunes:author></itunes:author>
@@ -1141,13 +1218,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/08/25/podcast-303/</link>
         <title>После РТ 303</title>
         <pubDate>Sat, 25 Aug 2012 18:22:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt303post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/08/25/podcast-303/</guid>
 
         <itunes:author></itunes:author>
@@ -1155,13 +1233,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/08/11/podcast-301/</link>
         <title>После РТ 301</title>
         <pubDate>Sat, 11 Aug 2012 19:06:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt301post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/08/11/podcast-301/</guid>
 
         <itunes:author></itunes:author>
@@ -1169,13 +1248,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/07/14/podcast-297/</link>
         <title>После РТ 297</title>
         <pubDate>Sat, 14 Jul 2012 19:03:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt297post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/07/14/podcast-297/</guid>
 
         <itunes:author></itunes:author>
@@ -1183,13 +1263,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/07/07/podcast-296/</link>
         <title>После РТ 296</title>
         <pubDate>Sat, 07 Jul 2012 18:24:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt296post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/07/07/podcast-296/</guid>
 
         <itunes:author></itunes:author>
@@ -1197,13 +1278,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/06/16/podcast-293/</link>
         <title>После РТ 293</title>
         <pubDate>Sat, 16 Jun 2012 18:39:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt293post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/06/16/podcast-293/</guid>
 
         <itunes:author></itunes:author>
@@ -1211,13 +1293,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/06/09/podcast-292/</link>
         <title>После РТ 292</title>
         <pubDate>Sat, 09 Jun 2012 19:09:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt292post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/06/09/podcast-292/</guid>
 
         <itunes:author></itunes:author>
@@ -1225,13 +1308,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/06/02/podcast-291/</link>
         <title>После РТ 291</title>
         <pubDate>Sat, 02 Jun 2012 18:20:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt291post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/06/02/podcast-291/</guid>
 
         <itunes:author></itunes:author>
@@ -1239,13 +1323,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/05/26/podcast-290/</link>
         <title>После РТ 290</title>
         <pubDate>Sat, 26 May 2012 18:22:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt290post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/05/26/podcast-290/</guid>
 
         <itunes:author></itunes:author>
@@ -1253,13 +1338,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/05/05/podcast-287/</link>
         <title>После РТ 287</title>
         <pubDate>Sat, 05 May 2012 18:52:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt287post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/05/05/podcast-287/</guid>
 
         <itunes:author></itunes:author>
@@ -1267,13 +1353,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/04/28/podcast-286/</link>
         <title>После РТ 286</title>
         <pubDate>Sat, 28 Apr 2012 18:16:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt286post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/04/28/podcast-286/</guid>
 
         <itunes:author></itunes:author>
@@ -1281,13 +1368,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/04/14/podcast-284/</link>
         <title>После РТ 284</title>
         <pubDate>Sat, 14 Apr 2012 18:48:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt284post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/04/14/podcast-284/</guid>
 
         <itunes:author></itunes:author>
@@ -1295,13 +1383,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/04/07/podcast-283/</link>
         <title>После РТ 283</title>
         <pubDate>Sat, 07 Apr 2012 18:54:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt283post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/04/07/podcast-283/</guid>
 
         <itunes:author></itunes:author>
@@ -1309,13 +1398,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/03/24/podcast-281/</link>
         <title>После РТ 281</title>
         <pubDate>Sat, 24 Mar 2012 18:57:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt281post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/03/24/podcast-281/</guid>
 
         <itunes:author></itunes:author>
@@ -1323,13 +1413,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/03/17/podcast-280/</link>
         <title>После РТ 280</title>
         <pubDate>Sat, 17 Mar 2012 18:57:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt280post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/03/17/podcast-280/</guid>
 
         <itunes:author></itunes:author>
@@ -1337,13 +1428,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/03/10/podcast-279/</link>
         <title>После РТ 279</title>
         <pubDate>Sat, 10 Mar 2012 17:04:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt279post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/03/10/podcast-279/</guid>
 
         <itunes:author></itunes:author>
@@ -1351,13 +1443,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/03/03/podcast-278/</link>
         <title>После РТ 278</title>
         <pubDate>Sat, 03 Mar 2012 17:37:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt278post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/03/03/podcast-278/</guid>
 
         <itunes:author></itunes:author>
@@ -1365,13 +1458,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/02/25/podcast-277/</link>
         <title>После РТ 277</title>
         <pubDate>Sat, 25 Feb 2012 17:30:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt277post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/02/25/podcast-277/</guid>
 
         <itunes:author></itunes:author>
@@ -1379,13 +1473,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/02/11/podcast-276/</link>
         <title>После РТ 276</title>
         <pubDate>Sat, 11 Feb 2012 16:53:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt276post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/02/11/podcast-276/</guid>
 
         <itunes:author></itunes:author>
@@ -1393,13 +1488,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/01/28/podcast-274/</link>
         <title>После РТ 274</title>
         <pubDate>Sat, 28 Jan 2012 17:56:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt274post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/01/28/podcast-274/</guid>
 
         <itunes:author></itunes:author>
@@ -1407,13 +1503,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/01/14/podcast-272/</link>
         <title>После РТ 272</title>
         <pubDate>Sat, 14 Jan 2012 17:37:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt272post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/01/14/podcast-272/</guid>
 
         <itunes:author></itunes:author>
@@ -1421,13 +1518,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2012/01/07/podcast-271/</link>
         <title>После РТ 271</title>
         <pubDate>Sat, 07 Jan 2012 17:23:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt271post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2012/01/07/podcast-271/</guid>
 
         <itunes:author></itunes:author>
@@ -1435,13 +1533,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/12/30/podcast-270/</link>
         <title>После РТ 270</title>
         <pubDate>Fri, 30 Dec 2011 17:45:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt270post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/12/30/podcast-270/</guid>
 
         <itunes:author></itunes:author>
@@ -1449,13 +1548,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/12/24/podcast-269/</link>
         <title>После РТ 269</title>
         <pubDate>Sat, 24 Dec 2011 19:10:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt269post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/12/24/podcast-269/</guid>
 
         <itunes:author></itunes:author>
@@ -1463,13 +1563,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/12/17/podcast-268/</link>
         <title>После РТ 268</title>
         <pubDate>Sat, 17 Dec 2011 18:15:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt268post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/12/17/podcast-268/</guid>
 
         <itunes:author></itunes:author>
@@ -1477,13 +1578,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/12/10/podcast-267/</link>
         <title>После РТ 267</title>
         <pubDate>Sat, 10 Dec 2011 17:38:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt267post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/12/10/podcast-267/</guid>
 
         <itunes:author></itunes:author>
@@ -1491,13 +1593,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/12/03/podcast-266/</link>
         <title>После РТ 266</title>
         <pubDate>Sat, 03 Dec 2011 18:18:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt266post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/12/03/podcast-266/</guid>
 
         <itunes:author></itunes:author>
@@ -1505,13 +1608,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/11/26/podcast-265/</link>
         <title>После РТ 265</title>
         <pubDate>Sat, 26 Nov 2011 17:14:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt265post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/11/26/podcast-265/</guid>
 
         <itunes:author></itunes:author>
@@ -1519,13 +1623,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/11/19/podcast-264/</link>
         <title>После РТ 264</title>
         <pubDate>Sat, 19 Nov 2011 17:55:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt264post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/11/19/podcast-264/</guid>
 
         <itunes:author></itunes:author>
@@ -1533,13 +1638,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/11/12/podcast-263/</link>
         <title>После РТ 263</title>
         <pubDate>Sat, 12 Nov 2011 17:41:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt263post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/11/12/podcast-263/</guid>
 
         <itunes:author></itunes:author>
@@ -1547,13 +1653,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/11/05/podcast-262/</link>
         <title>После РТ 262</title>
         <pubDate>Sat, 05 Nov 2011 19:19:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt262post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/11/05/podcast-262/</guid>
 
         <itunes:author></itunes:author>
@@ -1561,13 +1668,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/10/29/podcast-261/</link>
         <title>После РТ 261</title>
         <pubDate>Sat, 29 Oct 2011 18:03:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt261post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/10/29/podcast-261/</guid>
 
         <itunes:author></itunes:author>
@@ -1575,13 +1683,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/10/22/podcast-260/</link>
         <title>После РТ 260</title>
         <pubDate>Sat, 22 Oct 2011 19:36:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt260post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/10/22/podcast-260/</guid>
 
         <itunes:author></itunes:author>
@@ -1589,13 +1698,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/10/15/podcast-259/</link>
         <title>После РТ 259</title>
         <pubDate>Sat, 15 Oct 2011 20:09:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt259post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/10/15/podcast-259/</guid>
 
         <itunes:author></itunes:author>
@@ -1603,13 +1713,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/10/09/podcast/</link>
         <title>После РТ</title>
         <pubDate>Sun, 09 Oct 2011 00:53:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtpodcastpost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/10/09/podcast/</guid>
 
         <itunes:author></itunes:author>
@@ -1617,13 +1728,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/10/08/podcast-258/</link>
         <title>После РТ 258</title>
         <pubDate>Sat, 08 Oct 2011 18:09:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt258post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/10/08/podcast-258/</guid>
 
         <itunes:author></itunes:author>
@@ -1631,13 +1743,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/10/01/podcast-257/</link>
         <title>После РТ 257</title>
         <pubDate>Sat, 01 Oct 2011 19:44:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt257post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/10/01/podcast-257/</guid>
 
         <itunes:author></itunes:author>
@@ -1645,13 +1758,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/09/24/others/</link>
         <title>После РТ Сайт пиратов переехал</title>
         <pubDate>Sat, 24 Sep 2011 21:11:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtotherspost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/09/24/others/</guid>
 
         <itunes:author></itunes:author>
@@ -1659,13 +1773,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/09/24/podcast-256/</link>
         <title>После РТ 256</title>
         <pubDate>Sat, 24 Sep 2011 13:22:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt256post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/09/24/podcast-256/</guid>
 
         <itunes:author></itunes:author>
@@ -1673,13 +1788,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/09/17/podcast-255/</link>
         <title>После РТ 255</title>
         <pubDate>Sat, 17 Sep 2011 13:55:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt255post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/09/17/podcast-255/</guid>
 
         <itunes:author></itunes:author>
@@ -1687,13 +1803,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/09/03/podcast-253/</link>
         <title>После РТ 253</title>
         <pubDate>Sat, 03 Sep 2011 12:24:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt253post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/09/03/podcast-253/</guid>
 
         <itunes:author></itunes:author>
@@ -1701,13 +1818,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/08/20/podcast-251/</link>
         <title>После РТ 251</title>
         <pubDate>Sat, 20 Aug 2011 13:31:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt251post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/08/20/podcast-251/</guid>
 
         <itunes:author></itunes:author>
@@ -1715,13 +1833,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/08/07/podcast-250/</link>
         <title>После РТ 250</title>
         <pubDate>Sun, 07 Aug 2011 10:53:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt250post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/08/07/podcast-250/</guid>
 
         <itunes:author></itunes:author>
@@ -1729,13 +1848,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/07/30/podcast-249/</link>
         <title>После РТ 249</title>
         <pubDate>Sat, 30 Jul 2011 14:01:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt249post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/07/30/podcast-249/</guid>
 
         <itunes:author></itunes:author>
@@ -1743,13 +1863,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/06/25/podcast-244/</link>
         <title>После РТ 244</title>
         <pubDate>Sat, 25 Jun 2011 13:17:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt244post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/06/25/podcast-244/</guid>
 
         <itunes:author></itunes:author>
@@ -1757,13 +1878,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/06/18/podcast-243/</link>
         <title>После РТ 243</title>
         <pubDate>Sat, 18 Jun 2011 12:55:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt243post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/06/18/podcast-243/</guid>
 
         <itunes:author></itunes:author>
@@ -1771,13 +1893,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/06/11/podcast-242/</link>
         <title>После РТ 242</title>
         <pubDate>Sat, 11 Jun 2011 13:26:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt242post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/06/11/podcast-242/</guid>
 
         <itunes:author></itunes:author>
@@ -1785,13 +1908,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/06/04/podcast-241/</link>
         <title>После РТ 241</title>
         <pubDate>Sat, 04 Jun 2011 13:07:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt241post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/06/04/podcast-241/</guid>
 
         <itunes:author></itunes:author>
@@ -1799,13 +1923,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/05/14/podcast-239/</link>
         <title>После РТ 239</title>
         <pubDate>Sat, 14 May 2011 13:16:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt239post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/05/14/podcast-239/</guid>
 
         <itunes:author></itunes:author>
@@ -1813,13 +1938,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/04/30/podcast-237/</link>
         <title>После РТ 237</title>
         <pubDate>Sat, 30 Apr 2011 14:40:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt237post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/04/30/podcast-237/</guid>
 
         <itunes:author></itunes:author>
@@ -1827,13 +1953,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/04/23/podcast-236/</link>
         <title>После РТ 236</title>
         <pubDate>Sat, 23 Apr 2011 14:05:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt236post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/04/23/podcast-236/</guid>
 
         <itunes:author></itunes:author>
@@ -1841,13 +1968,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/04/16/podcast-235/</link>
         <title>После РТ 235</title>
         <pubDate>Sat, 16 Apr 2011 14:34:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt235post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/04/16/podcast-235/</guid>
 
         <itunes:author></itunes:author>
@@ -1855,13 +1983,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/04/09/podcast-234/</link>
         <title>После РТ 234</title>
         <pubDate>Sat, 09 Apr 2011 13:27:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt234post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/04/09/podcast-234/</guid>
 
         <itunes:author></itunes:author>
@@ -1869,13 +1998,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/03/26/podcast-232/</link>
         <title>После РТ 232</title>
         <pubDate>Sat, 26 Mar 2011 13:56:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt232post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/03/26/podcast-232/</guid>
 
         <itunes:author></itunes:author>
@@ -1883,13 +2013,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/03/19/podcast-231/</link>
         <title>После РТ 231</title>
         <pubDate>Sat, 19 Mar 2011 15:55:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt231post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/03/19/podcast-231/</guid>
 
         <itunes:author></itunes:author>
@@ -1897,13 +2028,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/03/05/podcast-229/</link>
         <title>После РТ 229</title>
         <pubDate>Sat, 05 Mar 2011 15:42:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt229post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/03/05/podcast-229/</guid>
 
         <itunes:author></itunes:author>
@@ -1911,13 +2043,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/02/26/podcast-228/</link>
         <title>После РТ 228</title>
         <pubDate>Sat, 26 Feb 2011 13:57:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt228post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/02/26/podcast-228/</guid>
 
         <itunes:author></itunes:author>
@@ -1925,13 +2058,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/02/19/podcast-227/</link>
         <title>После РТ 227</title>
         <pubDate>Sat, 19 Feb 2011 13:34:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt227post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/02/19/podcast-227/</guid>
 
         <itunes:author></itunes:author>
@@ -1939,13 +2073,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/02/05/podcast-225/</link>
         <title>После РТ 225</title>
         <pubDate>Sat, 05 Feb 2011 14:54:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt225post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/02/05/podcast-225/</guid>
 
         <itunes:author></itunes:author>
@@ -1953,13 +2088,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/01/29/podcast-224/</link>
         <title>После РТ 224</title>
         <pubDate>Sat, 29 Jan 2011 16:33:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt224post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/01/29/podcast-224/</guid>
 
         <itunes:author></itunes:author>
@@ -1967,13 +2103,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/01/22/podcast-223/</link>
         <title>После РТ 223</title>
         <pubDate>Sat, 22 Jan 2011 13:56:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt223post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/01/22/podcast-223/</guid>
 
         <itunes:author></itunes:author>
@@ -1981,13 +2118,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/01/15/podcast-222/</link>
         <title>После РТ 222</title>
         <pubDate>Sat, 15 Jan 2011 13:49:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt222post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/01/15/podcast-222/</guid>
 
         <itunes:author></itunes:author>
@@ -1995,13 +2133,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/01/08/podcast-221/</link>
         <title>После РТ 221</title>
         <pubDate>Sat, 08 Jan 2011 13:49:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt221post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/01/08/podcast-221/</guid>
 
         <itunes:author></itunes:author>
@@ -2009,13 +2148,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2011/01/01/podcast-220/</link>
         <title>После РТ 220</title>
         <pubDate>Sat, 01 Jan 2011 13:05:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt220post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2011/01/01/podcast-220/</guid>
 
         <itunes:author></itunes:author>
@@ -2023,13 +2163,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/12/25/podcast-219/</link>
         <title>После РТ 219</title>
         <pubDate>Sat, 25 Dec 2010 12:50:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt219post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/12/25/podcast-219/</guid>
 
         <itunes:author></itunes:author>
@@ -2037,13 +2178,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/12/18/podcast-218/</link>
         <title>После РТ 218</title>
         <pubDate>Sat, 18 Dec 2010 14:24:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt218post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/12/18/podcast-218/</guid>
 
         <itunes:author></itunes:author>
@@ -2051,13 +2193,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/12/04/podcast-216/</link>
         <title>После РТ 216</title>
         <pubDate>Sat, 04 Dec 2010 13:26:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt216post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/12/04/podcast-216/</guid>
 
         <itunes:author></itunes:author>
@@ -2065,13 +2208,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/11/27/podcast-215/</link>
         <title>После РТ 215</title>
         <pubDate>Sat, 27 Nov 2010 13:03:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt215post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/11/27/podcast-215/</guid>
 
         <itunes:author></itunes:author>
@@ -2079,13 +2223,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/11/20/podcast-214/</link>
         <title>После РТ 214</title>
         <pubDate>Sat, 20 Nov 2010 13:56:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt214post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/11/20/podcast-214/</guid>
 
         <itunes:author></itunes:author>
@@ -2093,13 +2238,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/11/13/podcast-213/</link>
         <title>После РТ 213</title>
         <pubDate>Sat, 13 Nov 2010 15:15:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt213post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/11/13/podcast-213/</guid>
 
         <itunes:author></itunes:author>
@@ -2107,13 +2253,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/11/06/podcast-212/</link>
         <title>После РТ 212</title>
         <pubDate>Sat, 06 Nov 2010 14:38:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt212post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/11/06/podcast-212/</guid>
 
         <itunes:author></itunes:author>
@@ -2121,13 +2268,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/10/30/podcast-211/</link>
         <title>После РТ 211</title>
         <pubDate>Sat, 30 Oct 2010 14:04:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt211post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/10/30/podcast-211/</guid>
 
         <itunes:author></itunes:author>
@@ -2135,13 +2283,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/10/09/podcast-208/</link>
         <title>После РТ 208</title>
         <pubDate>Sat, 09 Oct 2010 15:55:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt208post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/10/09/podcast-208/</guid>
 
         <itunes:author></itunes:author>
@@ -2149,13 +2298,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/10/02/podcast-207/</link>
         <title>После РТ 207</title>
         <pubDate>Sat, 02 Oct 2010 16:47:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt207post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/10/02/podcast-207/</guid>
 
         <itunes:author></itunes:author>
@@ -2163,13 +2313,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/09/25/podcast-206/</link>
         <title>После РТ 206</title>
         <pubDate>Sat, 25 Sep 2010 13:13:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt206post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/09/25/podcast-206/</guid>
 
         <itunes:author></itunes:author>
@@ -2177,13 +2328,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/09/18/podcast-205/</link>
         <title>После РТ 205</title>
         <pubDate>Sat, 18 Sep 2010 13:07:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt205post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/09/18/podcast-205/</guid>
 
         <itunes:author></itunes:author>
@@ -2191,13 +2343,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/09/11/podcast-204/</link>
         <title>После РТ 204</title>
         <pubDate>Sat, 11 Sep 2010 13:37:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt204post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/09/11/podcast-204/</guid>
 
         <itunes:author></itunes:author>
@@ -2205,13 +2358,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/09/04/podcast-203/</link>
         <title>После РТ 203</title>
         <pubDate>Sat, 04 Sep 2010 12:17:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt203post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/09/04/podcast-203/</guid>
 
         <itunes:author></itunes:author>
@@ -2219,13 +2373,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/08/28/podcast-202/</link>
         <title>После РТ 202</title>
         <pubDate>Sat, 28 Aug 2010 14:38:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt202post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/08/28/podcast-202/</guid>
 
         <itunes:author></itunes:author>
@@ -2233,13 +2388,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/08/21/podcast-201/</link>
         <title>После РТ 201</title>
         <pubDate>Sat, 21 Aug 2010 15:52:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt201post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/08/21/podcast-201/</guid>
 
         <itunes:author></itunes:author>
@@ -2247,13 +2403,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/08/14/podcast-200/</link>
         <title>После РТ 200</title>
         <pubDate>Sat, 14 Aug 2010 17:45:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt200post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/08/14/podcast-200/</guid>
 
         <itunes:author></itunes:author>
@@ -2261,13 +2418,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/08/07/podcast-199/</link>
         <title>После РТ 199</title>
         <pubDate>Sat, 07 Aug 2010 13:45:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt199post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/08/07/podcast-199/</guid>
 
         <itunes:author></itunes:author>
@@ -2275,13 +2433,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/07/31/podcast-198/</link>
         <title>После РТ 198</title>
         <pubDate>Sat, 31 Jul 2010 16:00:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt198post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/07/31/podcast-198/</guid>
 
         <itunes:author></itunes:author>
@@ -2289,13 +2448,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/07/24/podcast-197/</link>
         <title>После РТ 197</title>
         <pubDate>Sat, 24 Jul 2010 14:07:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt197post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/07/24/podcast-197/</guid>
 
         <itunes:author></itunes:author>
@@ -2303,13 +2463,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/07/17/podcast-196/</link>
         <title>После РТ 196</title>
         <pubDate>Sat, 17 Jul 2010 14:02:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt196post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/07/17/podcast-196/</guid>
 
         <itunes:author></itunes:author>
@@ -2317,13 +2478,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/07/10/podcast-195/</link>
         <title>После РТ 195</title>
         <pubDate>Sat, 10 Jul 2010 14:03:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt195post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/07/10/podcast-195/</guid>
 
         <itunes:author></itunes:author>
@@ -2331,13 +2493,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/07/03/podcast-194/</link>
         <title>После РТ 194</title>
         <pubDate>Sat, 03 Jul 2010 14:35:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt194post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/07/03/podcast-194/</guid>
 
         <itunes:author></itunes:author>
@@ -2345,13 +2508,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/06/26/podcast-193/</link>
         <title>После РТ 193</title>
         <pubDate>Sat, 26 Jun 2010 13:40:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt193post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/06/26/podcast-193/</guid>
 
         <itunes:author></itunes:author>
@@ -2359,13 +2523,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/06/19/podcast-192/</link>
         <title>После РТ 192</title>
         <pubDate>Sat, 19 Jun 2010 15:45:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt192post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/06/19/podcast-192/</guid>
 
         <itunes:author></itunes:author>
@@ -2373,13 +2538,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/06/12/podcast-191/</link>
         <title>После РТ 191</title>
         <pubDate>Sat, 12 Jun 2010 15:42:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt191post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/06/12/podcast-191/</guid>
 
         <itunes:author></itunes:author>
@@ -2387,13 +2553,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/06/05/podcast-190/</link>
         <title>После РТ 190</title>
         <pubDate>Sat, 05 Jun 2010 14:23:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt190post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/06/05/podcast-190/</guid>
 
         <itunes:author></itunes:author>
@@ -2401,13 +2568,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/05/29/podcast-189/</link>
         <title>После РТ 189</title>
         <pubDate>Sat, 29 May 2010 17:18:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt189post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/05/29/podcast-189/</guid>
 
         <itunes:author></itunes:author>
@@ -2415,13 +2583,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/05/22/podcast-188/</link>
         <title>После РТ 188</title>
         <pubDate>Sat, 22 May 2010 15:19:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt188post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/05/22/podcast-188/</guid>
 
         <itunes:author></itunes:author>
@@ -2429,13 +2598,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/05/15/podcast-187/</link>
         <title>После РТ 187</title>
         <pubDate>Sat, 15 May 2010 16:00:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt187post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/05/15/podcast-187/</guid>
 
         <itunes:author></itunes:author>
@@ -2443,13 +2613,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/05/08/podcast-186/</link>
         <title>После РТ 186</title>
         <pubDate>Sat, 08 May 2010 14:05:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt186post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/05/08/podcast-186/</guid>
 
         <itunes:author></itunes:author>
@@ -2457,13 +2628,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/05/01/podcast-185/</link>
         <title>После РТ 185</title>
         <pubDate>Sat, 01 May 2010 15:26:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt185post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/05/01/podcast-185/</guid>
 
         <itunes:author></itunes:author>
@@ -2471,13 +2643,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/04/24/podcast-184/</link>
         <title>После РТ 184</title>
         <pubDate>Sat, 24 Apr 2010 14:16:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt184post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/04/24/podcast-184/</guid>
 
         <itunes:author></itunes:author>
@@ -2485,13 +2658,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/04/17/podcast-183/</link>
         <title>После РТ 183</title>
         <pubDate>Sat, 17 Apr 2010 14:08:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt183post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/04/17/podcast-183/</guid>
 
         <itunes:author></itunes:author>
@@ -2499,13 +2673,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/04/10/podcast-182/</link>
         <title>После РТ 182</title>
         <pubDate>Sat, 10 Apr 2010 12:07:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt182post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/04/10/podcast-182/</guid>
 
         <itunes:author></itunes:author>
@@ -2513,13 +2688,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/04/03/podcast-181/</link>
         <title>После РТ 181</title>
         <pubDate>Sat, 03 Apr 2010 13:51:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt181post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/04/03/podcast-181/</guid>
 
         <itunes:author></itunes:author>
@@ -2527,13 +2703,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/03/27/podcast-180/</link>
         <title>После РТ 180</title>
         <pubDate>Sat, 27 Mar 2010 15:59:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt180post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/03/27/podcast-180/</guid>
 
         <itunes:author></itunes:author>
@@ -2541,13 +2718,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/03/20/podcast-179/</link>
         <title>После РТ 179</title>
         <pubDate>Sat, 20 Mar 2010 22:43:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt179post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/03/20/podcast-179/</guid>
 
         <itunes:author></itunes:author>
@@ -2555,13 +2733,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/03/13/podcast-178/</link>
         <title>После РТ 178</title>
         <pubDate>Sat, 13 Mar 2010 15:08:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt178post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/03/13/podcast-178/</guid>
 
         <itunes:author></itunes:author>
@@ -2569,13 +2748,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/03/06/podcast-177/</link>
         <title>После РТ 177</title>
         <pubDate>Sat, 06 Mar 2010 18:07:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt177post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/03/06/podcast-177/</guid>
 
         <itunes:author></itunes:author>
@@ -2583,13 +2763,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/02/27/podcast-176/</link>
         <title>После РТ 176</title>
         <pubDate>Sat, 27 Feb 2010 13:17:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt176post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/02/27/podcast-176/</guid>
 
         <itunes:author></itunes:author>
@@ -2597,13 +2778,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/02/20/podcast-175/</link>
         <title>После РТ 175</title>
         <pubDate>Sat, 20 Feb 2010 19:01:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt175post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/02/20/podcast-175/</guid>
 
         <itunes:author></itunes:author>
@@ -2611,13 +2793,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/02/13/podcast-174/</link>
         <title>После РТ 174</title>
         <pubDate>Sat, 13 Feb 2010 18:48:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt174post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/02/13/podcast-174/</guid>
 
         <itunes:author></itunes:author>
@@ -2625,13 +2808,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/02/06/podcast-173/</link>
         <title>После РТ 173</title>
         <pubDate>Sat, 06 Feb 2010 14:47:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt173post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/02/06/podcast-173/</guid>
 
         <itunes:author></itunes:author>
@@ -2639,13 +2823,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/01/30/podcast-172/</link>
         <title>После РТ 172</title>
         <pubDate>Sat, 30 Jan 2010 18:43:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt172post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/01/30/podcast-172/</guid>
 
         <itunes:author></itunes:author>
@@ -2653,13 +2838,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/01/23/podcast-171/</link>
         <title>После РТ 171</title>
         <pubDate>Sat, 23 Jan 2010 17:09:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt171post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/01/23/podcast-171/</guid>
 
         <itunes:author></itunes:author>
@@ -2667,13 +2853,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/01/16/podcast-170/</link>
         <title>После РТ 170</title>
         <pubDate>Sat, 16 Jan 2010 17:58:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt170post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/01/16/podcast-170/</guid>
 
         <itunes:author></itunes:author>
@@ -2681,13 +2868,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/01/09/podcast-169/</link>
         <title>После РТ 169</title>
         <pubDate>Sat, 09 Jan 2010 16:43:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt169post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/01/09/podcast-169/</guid>
 
         <itunes:author></itunes:author>
@@ -2695,13 +2883,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2010/01/02/podcast-168/</link>
         <title>После РТ 168</title>
         <pubDate>Sat, 02 Jan 2010 15:50:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt168post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2010/01/02/podcast-168/</guid>
 
         <itunes:author></itunes:author>
@@ -2709,13 +2898,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/12/26/podcast-167/</link>
         <title>После РТ 167</title>
         <pubDate>Sat, 26 Dec 2009 15:29:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt167post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/12/26/podcast-167/</guid>
 
         <itunes:author></itunes:author>
@@ -2723,13 +2913,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/12/19/podcast-166/</link>
         <title>После РТ 166</title>
         <pubDate>Sat, 19 Dec 2009 16:28:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt166post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/12/19/podcast-166/</guid>
 
         <itunes:author></itunes:author>
@@ -2737,13 +2928,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/12/12/podcast-165/</link>
         <title>После РТ 165</title>
         <pubDate>Sat, 12 Dec 2009 20:17:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt165post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/12/12/podcast-165/</guid>
 
         <itunes:author></itunes:author>
@@ -2751,13 +2943,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/12/05/podcast-164/</link>
         <title>После РТ 164</title>
         <pubDate>Sat, 05 Dec 2009 17:27:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt164post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/12/05/podcast-164/</guid>
 
         <itunes:author></itunes:author>
@@ -2765,13 +2958,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/11/28/podcast-163/</link>
         <title>После РТ 163</title>
         <pubDate>Sat, 28 Nov 2009 20:02:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt163post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/11/28/podcast-163/</guid>
 
         <itunes:author></itunes:author>
@@ -2779,13 +2973,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/11/21/podcast-162/</link>
         <title>После РТ 162</title>
         <pubDate>Sat, 21 Nov 2009 16:49:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt162post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/11/21/podcast-162/</guid>
 
         <itunes:author></itunes:author>
@@ -2793,13 +2988,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/11/14/podcast-161/</link>
         <title>После РТ 161</title>
         <pubDate>Sat, 14 Nov 2009 19:13:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt161post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/11/14/podcast-161/</guid>
 
         <itunes:author></itunes:author>
@@ -2807,13 +3003,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/11/07/podcast-160/</link>
         <title>После РТ 160</title>
         <pubDate>Sat, 07 Nov 2009 23:27:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt160post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/11/07/podcast-160/</guid>
 
         <itunes:author></itunes:author>
@@ -2821,13 +3018,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/10/31/podcast-159/</link>
         <title>После РТ 159</title>
         <pubDate>Sat, 31 Oct 2009 18:08:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt159post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/10/31/podcast-159/</guid>
 
         <itunes:author></itunes:author>
@@ -2835,13 +3033,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/10/24/podcast-158/</link>
         <title>После РТ 158</title>
         <pubDate>Sat, 24 Oct 2009 21:26:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt158post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/10/24/podcast-158/</guid>
 
         <itunes:author></itunes:author>
@@ -2849,13 +3048,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/10/10/podcast-157/</link>
         <title>После РТ 157</title>
         <pubDate>Sat, 10 Oct 2009 16:59:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt157post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/10/10/podcast-157/</guid>
 
         <itunes:author></itunes:author>
@@ -2863,13 +3063,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/10/03/podcast-156/</link>
         <title>После РТ 156</title>
         <pubDate>Sat, 03 Oct 2009 15:35:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt156post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/10/03/podcast-156/</guid>
 
         <itunes:author></itunes:author>
@@ -2877,13 +3078,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/09/26/podcast-155/</link>
         <title>После РТ 155</title>
         <pubDate>Sat, 26 Sep 2009 16:41:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt155post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/09/26/podcast-155/</guid>
 
         <itunes:author></itunes:author>
@@ -2891,13 +3093,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/09/19/podcast-154/</link>
         <title>После РТ 154</title>
         <pubDate>Sat, 19 Sep 2009 15:32:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt154post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/09/19/podcast-154/</guid>
 
         <itunes:author></itunes:author>
@@ -2905,13 +3108,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/09/12/podcast-153/</link>
         <title>После РТ 153</title>
         <pubDate>Sat, 12 Sep 2009 16:17:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt153post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/09/12/podcast-153/</guid>
 
         <itunes:author></itunes:author>
@@ -2919,13 +3123,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/09/05/podcast-152/</link>
         <title>После РТ 152</title>
         <pubDate>Sat, 05 Sep 2009 20:21:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt152post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/09/05/podcast-152/</guid>
 
         <itunes:author></itunes:author>
@@ -2933,13 +3138,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/09/05/others/</link>
         <title>После РТ Вопрос ребром</title>
         <pubDate>Sat, 05 Sep 2009 12:37:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtotherspost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/09/05/others/</guid>
 
         <itunes:author></itunes:author>
@@ -2947,13 +3153,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/08/29/podcast-151/</link>
         <title>После РТ 151</title>
         <pubDate>Sat, 29 Aug 2009 15:30:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt151post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/08/29/podcast-151/</guid>
 
         <itunes:author></itunes:author>
@@ -2961,13 +3168,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/08/22/podcast-150/</link>
         <title>После РТ 150</title>
         <pubDate>Sat, 22 Aug 2009 13:56:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt150post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/08/22/podcast-150/</guid>
 
         <itunes:author></itunes:author>
@@ -2975,13 +3183,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/08/15/podcast-149/</link>
         <title>После РТ 149</title>
         <pubDate>Sat, 15 Aug 2009 17:34:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt149post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/08/15/podcast-149/</guid>
 
         <itunes:author></itunes:author>
@@ -2989,13 +3198,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/08/08/podcast-148/</link>
         <title>После РТ 148</title>
         <pubDate>Sat, 08 Aug 2009 15:18:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt148post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/08/08/podcast-148/</guid>
 
         <itunes:author></itunes:author>
@@ -3003,13 +3213,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/08/01/podcast-147/</link>
         <title>После РТ 147</title>
         <pubDate>Sat, 01 Aug 2009 14:39:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt147post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/08/01/podcast-147/</guid>
 
         <itunes:author></itunes:author>
@@ -3017,13 +3228,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/07/25/podcast-146/</link>
         <title>После РТ 146</title>
         <pubDate>Sat, 25 Jul 2009 16:46:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt146post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/07/25/podcast-146/</guid>
 
         <itunes:author></itunes:author>
@@ -3031,13 +3243,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/07/18/podcast-145/</link>
         <title>После РТ 145</title>
         <pubDate>Sat, 18 Jul 2009 19:11:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt145post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/07/18/podcast-145/</guid>
 
         <itunes:author></itunes:author>
@@ -3045,13 +3258,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/07/11/podcast-144/</link>
         <title>После РТ 144</title>
         <pubDate>Sat, 11 Jul 2009 17:09:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt144post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/07/11/podcast-144/</guid>
 
         <itunes:author></itunes:author>
@@ -3059,13 +3273,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/07/04/podcast-143/</link>
         <title>После РТ 143</title>
         <pubDate>Sat, 04 Jul 2009 19:46:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt143post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/07/04/podcast-143/</guid>
 
         <itunes:author></itunes:author>
@@ -3073,13 +3288,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/06/27/podcast-142/</link>
         <title>После РТ 142</title>
         <pubDate>Sat, 27 Jun 2009 18:32:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt142post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/06/27/podcast-142/</guid>
 
         <itunes:author></itunes:author>
@@ -3087,13 +3303,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/06/20/podcast-141/</link>
         <title>После РТ 141</title>
         <pubDate>Sat, 20 Jun 2009 14:34:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt141post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/06/20/podcast-141/</guid>
 
         <itunes:author></itunes:author>
@@ -3101,13 +3318,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/06/13/podcast-140/</link>
         <title>После РТ 140</title>
         <pubDate>Sat, 13 Jun 2009 15:46:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt140post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/06/13/podcast-140/</guid>
 
         <itunes:author></itunes:author>
@@ -3115,13 +3333,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/06/06/podcast-139/</link>
         <title>После РТ 139</title>
         <pubDate>Sat, 06 Jun 2009 18:17:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt139post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/06/06/podcast-139/</guid>
 
         <itunes:author></itunes:author>
@@ -3129,13 +3348,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/05/23/podcast-138/</link>
         <title>После РТ 138</title>
         <pubDate>Sat, 23 May 2009 21:39:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt138post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/05/23/podcast-138/</guid>
 
         <itunes:author></itunes:author>
@@ -3143,13 +3363,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/05/16/podcast-137/</link>
         <title>После РТ 137</title>
         <pubDate>Sat, 16 May 2009 19:00:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt137post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/05/16/podcast-137/</guid>
 
         <itunes:author></itunes:author>
@@ -3157,13 +3378,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/05/09/podcast-136/</link>
         <title>После РТ 136</title>
         <pubDate>Sat, 09 May 2009 20:26:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt136post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/05/09/podcast-136/</guid>
 
         <itunes:author></itunes:author>
@@ -3171,13 +3393,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/05/02/podcast-135/</link>
         <title>После РТ 135</title>
         <pubDate>Sat, 02 May 2009 15:49:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt135post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/05/02/podcast-135/</guid>
 
         <itunes:author></itunes:author>
@@ -3185,13 +3408,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/04/25/podcast-134/</link>
         <title>После РТ 134</title>
         <pubDate>Sat, 25 Apr 2009 16:20:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt134post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/04/25/podcast-134/</guid>
 
         <itunes:author></itunes:author>
@@ -3199,13 +3423,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/04/18/podcast-133/</link>
         <title>После РТ 133</title>
         <pubDate>Sat, 18 Apr 2009 19:59:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt133post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/04/18/podcast-133/</guid>
 
         <itunes:author></itunes:author>
@@ -3213,13 +3438,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/04/11/podcast-132/</link>
         <title>После РТ 132</title>
         <pubDate>Sat, 11 Apr 2009 14:33:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt132post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/04/11/podcast-132/</guid>
 
         <itunes:author></itunes:author>
@@ -3227,13 +3453,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/04/04/podcast-131/</link>
         <title>После РТ 131</title>
         <pubDate>Sat, 04 Apr 2009 14:36:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt131post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/04/04/podcast-131/</guid>
 
         <itunes:author></itunes:author>
@@ -3241,13 +3468,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/03/28/podcast-130/</link>
         <title>После РТ 130</title>
         <pubDate>Sat, 28 Mar 2009 18:40:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt130post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/03/28/podcast-130/</guid>
 
         <itunes:author></itunes:author>
@@ -3255,13 +3483,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/03/21/podcast-129/</link>
         <title>После РТ 129</title>
         <pubDate>Sat, 21 Mar 2009 18:09:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt129post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/03/21/podcast-129/</guid>
 
         <itunes:author></itunes:author>
@@ -3269,13 +3498,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/03/14/podcast-128/</link>
         <title>После РТ 128</title>
         <pubDate>Sat, 14 Mar 2009 17:54:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt128post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/03/14/podcast-128/</guid>
 
         <itunes:author></itunes:author>
@@ -3283,13 +3513,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/03/07/podcast-127/</link>
         <title>После РТ 127</title>
         <pubDate>Sat, 07 Mar 2009 19:51:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt127post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/03/07/podcast-127/</guid>
 
         <itunes:author></itunes:author>
@@ -3297,13 +3528,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/02/28/podcast-126/</link>
         <title>После РТ 126</title>
         <pubDate>Sat, 28 Feb 2009 21:46:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt126post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/02/28/podcast-126/</guid>
 
         <itunes:author></itunes:author>
@@ -3311,13 +3543,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/02/21/podcast-125/</link>
         <title>После РТ 125</title>
         <pubDate>Sat, 21 Feb 2009 23:34:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt125post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/02/21/podcast-125/</guid>
 
         <itunes:author></itunes:author>
@@ -3325,13 +3558,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/02/15/podcast-124/</link>
         <title>После РТ 124</title>
         <pubDate>Sun, 15 Feb 2009 09:10:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt124post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/02/15/podcast-124/</guid>
 
         <itunes:author></itunes:author>
@@ -3339,13 +3573,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/02/07/podcast-123/</link>
         <title>После РТ 123</title>
         <pubDate>Sat, 07 Feb 2009 18:13:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt123post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/02/07/podcast-123/</guid>
 
         <itunes:author></itunes:author>
@@ -3353,13 +3588,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/01/31/podcast-122/</link>
         <title>После РТ 122</title>
         <pubDate>Sat, 31 Jan 2009 18:52:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt122post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/01/31/podcast-122/</guid>
 
         <itunes:author></itunes:author>
@@ -3367,13 +3603,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/01/24/podcast-121/</link>
         <title>После РТ 121</title>
         <pubDate>Sat, 24 Jan 2009 21:32:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt121post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/01/24/podcast-121/</guid>
 
         <itunes:author></itunes:author>
@@ -3381,13 +3618,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/01/17/podcast-120/</link>
         <title>После РТ 120</title>
         <pubDate>Sat, 17 Jan 2009 17:34:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt120post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/01/17/podcast-120/</guid>
 
         <itunes:author></itunes:author>
@@ -3395,13 +3633,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2009/01/10/podcast-119/</link>
         <title>После РТ 119</title>
         <pubDate>Sat, 10 Jan 2009 21:59:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt119post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2009/01/10/podcast-119/</guid>
 
         <itunes:author></itunes:author>
@@ -3409,13 +3648,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/12/27/podcast-118/</link>
         <title>После РТ 118</title>
         <pubDate>Sat, 27 Dec 2008 20:41:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt118post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/12/27/podcast-118/</guid>
 
         <itunes:author></itunes:author>
@@ -3423,13 +3663,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/12/20/podcast-117/</link>
         <title>После РТ 117</title>
         <pubDate>Sat, 20 Dec 2008 18:04:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt117post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/12/20/podcast-117/</guid>
 
         <itunes:author></itunes:author>
@@ -3437,13 +3678,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/12/13/podcast-116/</link>
         <title>После РТ 116</title>
         <pubDate>Sat, 13 Dec 2008 21:20:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt116post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/12/13/podcast-116/</guid>
 
         <itunes:author></itunes:author>
@@ -3451,13 +3693,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/12/06/podcast-115/</link>
         <title>После РТ 115</title>
         <pubDate>Sat, 06 Dec 2008 16:31:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt115post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/12/06/podcast-115/</guid>
 
         <itunes:author></itunes:author>
@@ -3465,13 +3708,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/11/29/podcast-114/</link>
         <title>После РТ 114</title>
         <pubDate>Sat, 29 Nov 2008 16:20:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt114post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/11/29/podcast-114/</guid>
 
         <itunes:author></itunes:author>
@@ -3479,13 +3723,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/11/22/podcast-113/</link>
         <title>После РТ 113</title>
         <pubDate>Sat, 22 Nov 2008 14:47:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt113post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/11/22/podcast-113/</guid>
 
         <itunes:author></itunes:author>
@@ -3493,13 +3738,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/11/15/podcast-112/</link>
         <title>После РТ 112</title>
         <pubDate>Sat, 15 Nov 2008 15:47:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt112post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/11/15/podcast-112/</guid>
 
         <itunes:author></itunes:author>
@@ -3507,13 +3753,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/11/08/podcast-111/</link>
         <title>После РТ 111</title>
         <pubDate>Sat, 08 Nov 2008 19:09:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt111post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/11/08/podcast-111/</guid>
 
         <itunes:author></itunes:author>
@@ -3521,13 +3768,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/11/01/podcast-110/</link>
         <title>После РТ 110</title>
         <pubDate>Sat, 01 Nov 2008 18:19:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt110post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/11/01/podcast-110/</guid>
 
         <itunes:author></itunes:author>
@@ -3535,13 +3783,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/10/26/podcast-109/</link>
         <title>После РТ 109</title>
         <pubDate>Sun, 26 Oct 2008 13:18:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt109post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/10/26/podcast-109/</guid>
 
         <itunes:author></itunes:author>
@@ -3549,13 +3798,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/10/26/podcast/</link>
         <title>После РТ</title>
         <pubDate>Sun, 26 Oct 2008 13:12:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtpodcastpost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/10/26/podcast/</guid>
 
         <itunes:author></itunes:author>
@@ -3563,13 +3813,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/10/18/podcast/</link>
         <title>После РТ</title>
         <pubDate>Sat, 18 Oct 2008 19:15:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtpodcastpost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/10/18/podcast/</guid>
 
         <itunes:author></itunes:author>
@@ -3577,13 +3828,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/10/18/podcast-108/</link>
         <title>После РТ 108</title>
         <pubDate>Sat, 18 Oct 2008 19:15:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt108post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/10/18/podcast-108/</guid>
 
         <itunes:author></itunes:author>
@@ -3591,13 +3843,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/10/11/podcast/</link>
         <title>После РТ</title>
         <pubDate>Sat, 11 Oct 2008 17:39:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtpodcastpost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/10/11/podcast/</guid>
 
         <itunes:author></itunes:author>
@@ -3605,13 +3858,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/10/11/podcast-107/</link>
         <title>После РТ 107</title>
         <pubDate>Sat, 11 Oct 2008 17:38:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt107post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/10/11/podcast-107/</guid>
 
         <itunes:author></itunes:author>
@@ -3619,13 +3873,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/10/04/podcast-106/</link>
         <title>После РТ 106</title>
         <pubDate>Sat, 04 Oct 2008 18:12:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt106post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/10/04/podcast-106/</guid>
 
         <itunes:author></itunes:author>
@@ -3633,13 +3888,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/09/27/podcast-105/</link>
         <title>После РТ 105</title>
         <pubDate>Sat, 27 Sep 2008 16:40:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt105post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/09/27/podcast-105/</guid>
 
         <itunes:author></itunes:author>
@@ -3647,13 +3903,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/09/20/podcast-104/</link>
         <title>После РТ 104</title>
         <pubDate>Sat, 20 Sep 2008 14:58:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt104post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/09/20/podcast-104/</guid>
 
         <itunes:author></itunes:author>
@@ -3661,13 +3918,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/09/06/podcast-102/</link>
         <title>После РТ 102</title>
         <pubDate>Sat, 06 Sep 2008 14:33:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt102post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/09/06/podcast-102/</guid>
 
         <itunes:author></itunes:author>
@@ -3675,13 +3933,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/08/30/podcast-101/</link>
         <title>После РТ 101</title>
         <pubDate>Sat, 30 Aug 2008 17:22:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt101post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/08/30/podcast-101/</guid>
 
         <itunes:author></itunes:author>
@@ -3689,13 +3948,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/08/23/podcast-100/</link>
         <title>После РТ 100</title>
         <pubDate>Sat, 23 Aug 2008 17:04:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt100post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/08/23/podcast-100/</guid>
 
         <itunes:author></itunes:author>
@@ -3703,13 +3963,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/08/18/podcast/</link>
         <title>После РТ</title>
         <pubDate>Mon, 18 Aug 2008 08:03:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rtpodcastpost.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/08/18/podcast/</guid>
 
         <itunes:author></itunes:author>
@@ -3717,13 +3978,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/08/16/podcast-99/</link>
         <title>После РТ 99</title>
         <pubDate>Sat, 16 Aug 2008 09:12:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt99post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/08/16/podcast-99/</guid>
 
         <itunes:author></itunes:author>
@@ -3731,13 +3993,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/08/10/podcast-98/</link>
         <title>После РТ 98</title>
         <pubDate>Sun, 10 Aug 2008 12:10:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt98post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/08/10/podcast-98/</guid>
 
         <itunes:author></itunes:author>
@@ -3745,13 +4008,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/08/03/podcast-97/</link>
         <title>После РТ 97</title>
         <pubDate>Sun, 03 Aug 2008 12:12:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt97post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/08/03/podcast-97/</guid>
 
         <itunes:author></itunes:author>
@@ -3759,13 +4023,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/07/27/podcast-96/</link>
         <title>После РТ 96</title>
         <pubDate>Sun, 27 Jul 2008 12:16:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt96post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/07/27/podcast-96/</guid>
 
         <itunes:author></itunes:author>
@@ -3773,13 +4038,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/07/20/podcast-95/</link>
         <title>После РТ 95</title>
         <pubDate>Sun, 20 Jul 2008 12:44:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt95post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/07/20/podcast-95/</guid>
 
         <itunes:author></itunes:author>
@@ -3787,13 +4053,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/07/13/podcast-94/</link>
         <title>После РТ 94</title>
         <pubDate>Sun, 13 Jul 2008 14:35:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt94post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/07/13/podcast-94/</guid>
 
         <itunes:author></itunes:author>
@@ -3801,13 +4068,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/07/05/podcast-93/</link>
         <title>После РТ 93</title>
         <pubDate>Sat, 05 Jul 2008 22:38:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt93post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/07/05/podcast-93/</guid>
 
         <itunes:author></itunes:author>
@@ -3815,13 +4083,14 @@
         <itunes:image href="https://pirates.radio-t.com/images/pirates-logo-big.jpg" />
     </item>
     
+    
     <item>
         <link>https://pirates.radio-t.com/p/2008/06/23/podcast-91/</link>
         <title>После РТ 91</title>
         <pubDate>Mon, 23 Jun 2008 17:39:00 +0300</pubDate>
         <description>авторы говорят о всяком разном, без заранее подготовленных тем</description>
 
-        <enclosure url="http://cdn.radio-t.com/.mp3" type="audio/mpeg" />
+        <enclosure url="http://cdn.radio-t.com/rt91post.mp3" type="audio/mpeg" />
         <guid>https://pirates.radio-t.com/p/2008/06/23/podcast-91/</guid>
 
         <itunes:author></itunes:author>
