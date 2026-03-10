@@ -35,8 +35,8 @@
 
     <itunes:keywords>hitech,russian,radiot,tech,news,радио-т</itunes:keywords>
 
-    {{ range (where (where .Site.RegularPages "Section" "posts") ".Slug" "!=" "others-") }}
-    {{ $num := replace .Slug "podcast-" "" }}{{ if $num }}
+    {{ range (where .Site.RegularPages "Section" "posts") }}
+    {{ $num := replace .Slug "podcast-" "" }}{{ if and (hasPrefix .Slug "podcast-") (ne $num "") }}
     <item>
         <link>{{ .Permalink }}</link>
         <title>{{ .Title }}</title>
